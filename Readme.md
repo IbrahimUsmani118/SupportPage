@@ -1,4 +1,4 @@
-# My App Support
+# Bundi Support
 
 Welcome to the support page for **OmatWT - SlideBar**! If you need help, you can:
 
