@@ -1,6 +1,6 @@
 # My App Support
 
-Welcome to the support page for **OmatWI - SlideBar**! If you need help, you can:
+Welcome to the support page for **OmatWT - SlideBar**! If you need help, you can:
 
 📧 Contact us:  
 **Ibrahim Usmani**  
